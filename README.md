@@ -13,7 +13,7 @@ ou
 $ yarn install
 
 ## DataBase:
-    Deve ser criado um bando de dados mysql "nome de sua preferência".
+    Deve ser criado um banco de dados mysql "nome de sua preferência".
 
     após criar o banco volte ao terminal para criar o .env 
     
